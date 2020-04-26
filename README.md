@@ -1,2 +1,2 @@
 # Python_tasks
-learning Python and doing tasks 
+learning Python and doing tasks from Prometheus course
